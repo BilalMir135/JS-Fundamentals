@@ -3,6 +3,8 @@ const age = 21;
 alert(`I am ${age} years old`);
 
 //Task # 02
+const visitor = 14;
+alert(`You have visited this site ${visitor} times.`);
 
 //Task # 03
 const birthYear = 1998;
